@@ -15,6 +15,7 @@ public class WelcomePage extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(500,500);
         setVisible(true);
+        //danuja
 
         loginButton.addActionListener(new ActionListener() {
             @Override
